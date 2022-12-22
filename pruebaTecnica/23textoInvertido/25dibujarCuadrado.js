@@ -1,0 +1,1 @@
+/* dibuar un cuadrado huevo con asteriscos */
